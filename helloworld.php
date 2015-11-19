@@ -12,7 +12,7 @@
  * 
  * The HelloWorld class is mostly for demostarion purposes
  * It's not really a good use of OOP
- * commitovano na gitHub
+ * commitovano na gitHub 2th
  */
 
 class HelloWorld {
